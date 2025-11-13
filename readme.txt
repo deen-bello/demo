@@ -3,4 +3,4 @@ Je suis en L2-IRT/Groupe 1.
 J'aime manger.
 JE suis sur le server
 Je suis un etudiant
-Utilisationde la commande pull
+Utilisation de la commande pull
